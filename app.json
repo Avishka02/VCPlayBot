@@ -20,11 +20,11 @@
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your bot's username without @",
+      "description": "king shana",
       "required": true
     },
     "BOT_NAME": {
-      "description": "Your MusicPlayer Bot Name.",
+      "description": "yakkula_rawana",
       "required": false,
       "value": ""
     },
@@ -34,7 +34,7 @@
       "value": "AwesomeSupport"
     },
     "PROJECT_NAME": {
-      "description": "Your MusicPlayer project Name.",
+      "description": "yakkula_rawana",
       "required": false,
       "value": "VCPlayBot2.0"
     },
@@ -43,7 +43,7 @@
       "required": true
     },
     "ARQ_API_KEY": {
-      "description": "Get from @ARQRobot.",
+      "description": "5619464949:AAE0E-vu4H0SAqZhRJNDcCABEnGULxtlSv4",
       "required": false,
       "value": "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ"
     },    
